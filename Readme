@@ -1,0 +1,23 @@
+Step 1 : create project
+# crapy startproject ptt
+
+Step 2 : set the data items in items.py
+
+Step 3 : exec
+# scrapy crawl ptt
+# scrapy crawl ptt -o output.json 
+# scrapy crawl ptt -o output.csv
+
+Note : 
+1. items.py is the struct define
+2.* first page index issue
+
+
+https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/
+https://city.shaform.com/zh/2016/02/28/scrapy/
+
+https://ithelp.ithome.com.tw/articles/10205893
+
+https://www.octoparse.com/DataCrawler
+https://www.octoparse.com/
+https://www.shiyanlou.com/
